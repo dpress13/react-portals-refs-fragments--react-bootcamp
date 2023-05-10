@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_refs-portals-wrappers-fragments--react-course/static/css/main.9ec7574a.css",
+    "main.js": "/react_refs-portals-wrappers-fragments--react-course/static/js/main.e55406fa.js",
+    "index.html": "/react_refs-portals-wrappers-fragments--react-course/index.html",
+    "main.9ec7574a.css.map": "/react_refs-portals-wrappers-fragments--react-course/static/css/main.9ec7574a.css.map",
+    "main.e55406fa.js.map": "/react_refs-portals-wrappers-fragments--react-course/static/js/main.e55406fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec7574a.css",
+    "static/js/main.e55406fa.js"
+  ]
+}
